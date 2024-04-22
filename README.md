@@ -11,12 +11,12 @@
 -🔧 Skills:
 💻 Web Developer- (WordPress Developer)
 🎨 Responsive Web Design and Web Redesign
-🔧 HTML, CSS, JavaScript
+🔧 HTML, CSS, JavaScript, React Js
 💡 Problem-Solving and Analytical Skills
 🔄 Continuous Learning
 
 -💼 Internship:
-Currently [ Web Development-WordPress ]
+Currently [ Software Developer - Web Development ]
 Ex-Intership [ Trainee Engineer ] [@Adani Thermal Power Station Dahanu]
 Ex-Internship [ Operational Trainee Engineer ] [@PM.Electro.Pvt.Ltd]
 
