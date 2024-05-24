@@ -13,7 +13,7 @@ Currently [ Software Developer - Web Development ]
 Ex-Intership [ Trainee Engineer ] [@Adani Thermal Power Station Dahanu]
 Ex-Internship [ Operational Trainee Engineer ] [@PM.Electro.Pvt.Ltd]
 
--Outsite of tech, I love travelling to discovering new places, Photography to capturing the beauty of nature and Freezing moments in time, Editing photo & video to add a personal touch to my shots, also watching cricket Tournaments.
+- Outsite of tech, I love travelling to discovering new places, Photography to capturing the beauty of nature and Freezing moments in time, Editing photo & video to add a personal touch to my shots, also watching cricket Tournaments.
 <!---
 ErYuti/ErYuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
