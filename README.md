@@ -25,19 +25,6 @@ I enjoy turning problems into well-structured solutions, learning new technologi
 **AI & Machine Learning:** Machine Learning, Deep Learning, CNN, NLP, Computer Vision, Generative AI  
 **Development & Tools:** Git, GitHub, Flask, FastAPI, React
 
-## Featured Projects
-
-- **Data Science Project** — Data cleaning, exploratory analysis, and visual insights.  
-  *Python · Pandas · NumPy* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DATA_PROJECT)
-
-- **Machine Learning Project** — A predictive model with documented evaluation metrics.  
-  *Python · Scikit-learn* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_ML_PROJECT)
-
-- **Deep Learning / Computer Vision Project** — Image classification or transfer learning with example predictions.  
-  *Python · CNN · TensorFlow / PyTorch* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_VISION_PROJECT)
-
-- **Generative AI / RAG Project** — A document question-answering application using retrieval and an LLM.  
-  *LLMs · Embeddings · Vector Search* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_RAG_PROJECT)
 
 ## Connect
 
