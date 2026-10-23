@@ -2,7 +2,7 @@
 
 # Yuti Naresh Meher
 
-### Software Developer | AI & Data Science Enthusiast
+### Software Developer | AI & Data Science
 
 **Building intelligent solutions with data, AI, and code.**
 
@@ -14,47 +14,35 @@
 
 ## About Me
 
-Hi, I'm **Yuti** — a software developer expanding my skills in **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy solving problems, learning new technologies, and building practical applications.
+I'm **Yuti Naresh Meher**, a software developer focused on building practical applications and data-driven solutions. My technical interests span software engineering, data analysis, machine learning, deep learning, and generative AI.
 
-- Learning Python, Machine Learning, Deep Learning, and Generative AI.
-- Interested in data-driven solutions and real-world AI applications.
-- Building projects to strengthen my development and problem-solving skills.
-- Open to collaboration and learning opportunities.
+I enjoy turning problems into well-structured solutions, learning new technologies, and building applications that are useful, reliable, and easy to use.
 
-## Skills
+## Technical Skills
 
 **Programming:** Python, SQL, JavaScript, HTML, CSS  
 **Data Science:** NumPy, Pandas, Statistics, Exploratory Data Analysis, Data Visualization  
 **AI & Machine Learning:** Machine Learning, Deep Learning, CNN, NLP, Computer Vision, Generative AI  
-**Tools:** Git, GitHub, Flask, FastAPI, React
+**Development & Tools:** Git, GitHub, Flask, FastAPI, React
 
 ## Featured Projects
 
-Replace the example project names and links below with your own completed projects before publishing.
-
-- **Data Science Project** — Data cleaning, exploratory data analysis, and visual insights.  
-  *Python · Pandas · NumPy* · [Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DATA_PROJECT)
+- **Data Science Project** — Data cleaning, exploratory analysis, and visual insights.  
+  *Python · Pandas · NumPy* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DATA_PROJECT)
 
 - **Machine Learning Project** — A predictive model with documented evaluation metrics.  
-  *Python · Scikit-learn* · [Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_ML_PROJECT)
+  *Python · Scikit-learn* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_ML_PROJECT)
 
 - **Deep Learning / Computer Vision Project** — Image classification or transfer learning with example predictions.  
-  *Python · CNN · TensorFlow / PyTorch* · [Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_VISION_PROJECT)
+  *Python · CNN · TensorFlow / PyTorch* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_VISION_PROJECT)
 
 - **Generative AI / RAG Project** — A document question-answering application using retrieval and an LLM.  
-  *LLMs · Embeddings · Vector Search* · [Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_RAG_PROJECT)
+  *LLMs · Embeddings · Vector Search* · [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_RAG_PROJECT)
 
-## Currently Learning
-
-- Data analysis, statistics, and machine learning fundamentals
-- Neural networks, CNNs, and model evaluation
-- Generative AI, RAG, and AI agents
-- Building, documenting, and deploying applications
-
-## Connect with Me
+## Connect
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/er-yuti-m-a26519245/)
-- **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
 
 <div align="center">
 
